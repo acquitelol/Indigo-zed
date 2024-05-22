@@ -1,7 +1,7 @@
 {
-  "name": "Indigo Theme",
+  "name": "Sakura Theme",
   "version": "0.1.2",
-  "authors": ["p3rception <dim.pergel@gmail.com>"],
-  "description": "Dark. Clean. Indigo.",
-  "repository": "https://github.com/p3rception/Indigo-zed"
+  "authors": ["p3rception <dim.pergel@gmail.com>", "Rosie <rosie.pie>"],
+  "description": "Indigo but tinted way more pink :3",
+  "repository": "https://github.com/acquitelol/Sakura-zed"
 }
