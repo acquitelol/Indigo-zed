@@ -9,7 +9,7 @@
       "style": {
         "background.appearance": "blurred",
         "border": "#00000000",
-        "border.variant": "#b46a9e20",
+        "border.variant": "#b46a9e3a",
         "border.focused": "#55304ddd",
         "border.selected": "#55304ddd",
         "border.transparent": "#00000000",
