@@ -191,12 +191,12 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#f5d1a3",
+            "color": "#f5d1a380",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#f5a2e1",
+            "color": "#f5a2e180",
             "font_style": "italic",
             "font_weight": null
           },
