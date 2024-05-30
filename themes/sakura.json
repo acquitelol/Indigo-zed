@@ -139,13 +139,13 @@
         "warning.border": "#5d4c2fdd",
         "players": [
           {
-            "cursor": "#e874d5dd",
-            "background": "#e874d5dd",
+            "cursor": "#e874d53d",
+            "background": "#e874d53d",
             "selection": "#e874c73d"
           },
           {
-            "cursor": "#be5046dd",
-            "background": "#be5046dd",
+            "cursor": "#be50463d",
+            "background": "#be50463d",
             "selection": "#be50463d"
           },
           {
