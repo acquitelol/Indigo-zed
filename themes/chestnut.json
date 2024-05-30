@@ -276,7 +276,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#deb27c",
+            "color": "#f2cc9d",
             "font_style": null,
             "font_weight": null
           },
@@ -306,7 +306,7 @@
             "font_weight": null
           },
           "string.escape": {
-            "color": "#988796dd",
+            "color": "#989186dd",
             "font_style": null,
             "font_weight": null
           },
@@ -341,7 +341,7 @@
             "font_weight": 400
           },
           "type": {
-            "color": "#d6996f",
+            "color": "#edc591",
             "font_style": null,
             "font_weight": null
           },
