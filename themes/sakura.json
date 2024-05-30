@@ -14,7 +14,7 @@
         "border.selected": "#55304ddd",
         "border.transparent": "#00000000",
         "border.disabled": "#544150dd",
-        "elevated_surface.background": "#240f2020",
+        "elevated_surface.background": "#240f20dd",
         "surface.background": "#000000bb",
         "background": "#170c15cf",
         "element.background": "#00000011",
@@ -46,7 +46,7 @@
         "tab.active_background": "#ff339220",
         "search.match_background": "#ffd33d44",
         "panel.background": "#00000000",
-        "panel.focused_border": "#231b20dd",
+        "panel.focused_border": "#231b2080",
         "pane.focused_border": null,
         "scrollbar.thumb.background": "#7d6a7633",
         "scrollbar.thumb.hover_background": "#7d6a7444",
@@ -149,9 +149,9 @@
             "selection": "#be50463d"
           },
           {
-            "cursor": "#d385d6",
-            "background": "#d385d6",
-            "selection": "#d385d6"
+            "cursor": "#d385d680",
+            "background": "#d385d680",
+            "selection": "#d385d680"
           },
           {
             "cursor": "#b477cfdd",
