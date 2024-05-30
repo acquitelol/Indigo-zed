@@ -236,17 +236,17 @@
             "font_weight": null
           },
           "text": {
-            "color": "#e1b689dd",
+            "color": "#e1b689",
             "font_style": null,
             "font_weight": null
           },
           "variable": {
-            "color": "#d4a17bdd",
+            "color": "#d4a17b",
             "font_style": null,
             "font_weight": null
           },
           "regexp": {
-            "color": "#cfc4b5dd",
+            "color": "#cfc4b5",
             "font_style": null,
             "font_weight": null
           }
